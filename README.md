@@ -31,22 +31,14 @@
 
 <br clear="both">
 
-###
+<img align="left" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" />
+<img align="left" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" />
+<img align="left" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo" />
+<img align="left" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender logo" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
+<p align="left" style="margin-left: 10px;">• Languages: Python, HTML5<br>• Others: Figma, Blender</p>
 
-###
-
-<br clear="both">
-
-<p align="right">• Languages: Python, HTML5<br>• Others: Figma, Blender</p>
+-------------------------------------------------------------------------------------------------------------------------
 
 ###
 
@@ -85,9 +77,6 @@
 
 ###
 
-<p align="left">•  CS50 solutions<br>•  CS11 solutions<br><br>Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.</p>
+<p align="left">•  [CS50 solutions](https://github.com/Jeremyliu-621/CS50-projects)<br>•  CS11 solutions<br><br>Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.</p>
 
-###
 
-![Image 1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZwY25waXZ0bWliY3luenphanFvZGt6NXN6aWlmajZucWpnazNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vDoUoDZHoUQxMPkd7/giphy.gif)
-![Image 2](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZwY25waXZ0bWliY3luenphanFvZGt6NXN6aWlmajZucWpnazNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vDoUoDZHoUQxMPkd7/giphy.gif)
