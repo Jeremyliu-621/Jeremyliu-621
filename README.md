@@ -29,6 +29,10 @@
 
 ###
 
+<br clear="both">
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="24" />
@@ -42,7 +46,7 @@
 
 <br clear="both">
 
-<p align="left">• Languages: Python, HTML5<br>• Others: Figma, Blender</p>
+<p align="right">• Languages: Python, HTML5<br>• Others: Figma, Blender</p>
 
 ###
 
@@ -77,7 +81,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9qem5qY203d3B3cDcyMDYxYXpzM3NqNWtwYXVuYzBrdXZmeXN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrgAAwTiTfHhhH40jJ/giphy.gif](https://giphy.com/gifs/heart-snoopy-sweetragers-7vDoUoDZHoUQxMPkd7"  />
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZwY25waXZ0bWliY3luenphanFvZGt6NXN6aWlmajZucWpnazNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vDoUoDZHoUQxMPkd7/giphy.gif"  />
 
 ###
 
