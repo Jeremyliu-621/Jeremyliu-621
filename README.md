@@ -73,12 +73,10 @@
 
 <h2 align="left">Projects and Interests</h2>
 
-###
-
 <br clear="both">
 
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9qem5qY203d3B3cDcyMDYxYXpzM3NqNWtwYXVuYzBrdXZmeXN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrgAAwTiTfHhhH40jJ/giphy.gif"  />
-# https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlyeG02c21oOWt0bmcwbXY2eHl1bDB6bHVndW9oZzB3aml2M3UyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vDoUoDZHoUQxMPkd7/giphy.gif
+
 ###
 
 <p align="left">•  CS50 solutions<br>•  CS11 solutions<br><br>Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.</p>
