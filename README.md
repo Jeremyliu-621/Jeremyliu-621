@@ -38,8 +38,6 @@
 
 <p align="left" style="margin-left: 10px;">• Languages: Python, HTML5<br>• Others: Figma, Blender</p>
 
--------------------------------------------------------------------------------------------------------------------------
-
 ###
 
 <h2 align="left">Socials</h2>
@@ -77,6 +75,10 @@
 
 ###
 
-<p align="left">•  [CS50 solutions](https://github.com/Jeremyliu-621/CS50-projects)<br>•  CS11 solutions<br><br>Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.</p>
+<p align="left">
+  • <a href="https://github.com/Jeremyliu-621/CS50-projects" target="_blank">CS50 solutions</a><br>
+  • CS11 solutions<br><br>
+  Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.
+</p>
 
 
