@@ -36,7 +36,7 @@
 <img align="left" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo" />
 <img align="left" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender logo" />
 
-<p align="left" style="margin-left: 10px;">• Languages: Python, HTML5<br>• Others: Figma, Blender</p>
+<p align="right" style="margin-left: 10px;">• Languages: Python, HTML5<br>• Others: Figma, Blender</p>
 
 ###
 
