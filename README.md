@@ -73,9 +73,11 @@
 
 <h2 align="left">Projects and Interests</h2>
 
+###
+
 <br clear="both">
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9qem5qY203d3B3cDcyMDYxYXpzM3NqNWtwYXVuYzBrdXZmeXN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrgAAwTiTfHhhH40jJ/giphy.gif"  />
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9qem5qY203d3B3cDcyMDYxYXpzM3NqNWtwYXVuYzBrdXZmeXN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrgAAwTiTfHhhH40jJ/giphy.gif](https://giphy.com/gifs/heart-snoopy-sweetragers-7vDoUoDZHoUQxMPkd7"  />
 
 ###
 
