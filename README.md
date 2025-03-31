@@ -44,20 +44,10 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/@JeremyLiuS" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/jeremyliu.621/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/613742496924565514" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="www.linkedin.com/in/jeremy-liu-3b1238339" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+[<kbd style="font-size: 16px; padding: 800px 120px;">Discord</kbd>](https://discordapp.com/users/613742496924565514) 
+[<kbd style="font-size: 16px; padding: 8px 12px;">Instagram</kbd>](https://www.instagram.com/jeremyliu.621/) 
+[<kbd style="font-size: 16px; padding: 8px 12px;">Email</kbd>](mailto:jeremyliu621@gmail.com) 
+[<kbd style="font-size: 16px; padding: 8px 12px;">LinkedIn</kbd>](https://www.linkedin.com/in/jeremy-liu-3b1238339)
 
 ###
 
