@@ -67,7 +67,7 @@
 
 <p align="left">Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.</p>
 
-<h2 align="left">Projects and Interests</h2>
+<h2 align="left">Snoopy</h2>
 
 ###
 
