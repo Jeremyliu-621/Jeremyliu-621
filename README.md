@@ -47,16 +47,18 @@
 
 ###
 
-<br clear="both">
+[<kbd> <br>                                                                                                            CS50 Solutions                                                                                                            <br> </kbd>](https://github.com/Jeremyliu-621/CS50-projects)  [<kbd> <br>                                                                                                            CS11 Solutions                                                                                                            <br> </kbd>](#)
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZwY25waXZ0bWliY3luenphanFvZGt6NXN6aWlmajZucWpnazNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vDoUoDZHoUQxMPkd7/giphy.gif"  />
+<p align="left">Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.</p>
+
+<h2 align="left">Projects and Interests</h2>
 
 ###
 
-[<kbd> <br>      CS50 Solutions      <br> </kbd>](https://github.com/Jeremyliu-621/CS50-projects)  [<kbd> <br>      CS11 Solutions      <br> </kbd>](#)
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZwY25waXZ0bWliY3luenphanFvZGt6NXN6aWlmajZucWpnazNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vDoUoDZHoUQxMPkd7/giphy.gif"  />
 
-<p align="left">
-  Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.
-</p>
+<br clear="both">
+
+###
 
 
