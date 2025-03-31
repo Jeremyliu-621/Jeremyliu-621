@@ -47,7 +47,21 @@
 
 ###
 
-[<kbd> <br>                                                                                                                                                                             CS50 Solutions                                                                                                                                                                             <br> </kbd>](https://github.com/Jeremyliu-621/CS50-projects)  [<kbd> <br>                                                                                                                                                                             CS11 Solutions                                                                                                                                                                             <br> </kbd>](#)
+<p align="center">
+  <a href="https://github.com/Jeremyliu-621/CS50-projects">
+    <kbd> <br> 
+                                                                                                                                                                                   CS50 Solutions                                                                                                                                                                                   
+      <br> 
+    </kbd>
+  </a>
+  <a href="#">
+    <kbd> <br>  
+                                                                                                                                                                                   CS11 Solutions                                                                                                                                                                             
+      <br> 
+    </kbd>
+  </a>
+</p>
+
 
 <p align="left">Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.</p>
 
