@@ -44,12 +44,7 @@
 
 ###
 
-[<kbd style="font-size: 16px; padding: 800px 120px;">Discord</kbd>](https://discordapp.com/users/613742496924565514) 
-[<kbd style="font-size: 16px; padding: 8px 12px;">Instagram</kbd>](https://www.instagram.com/jeremyliu.621/) 
-[<kbd style="font-size: 16px; padding: 8px 12px;">Email</kbd>](mailto:jeremyliu621@gmail.com) 
-[<kbd style="font-size: 16px; padding: 8px 12px;">LinkedIn</kbd>](https://www.linkedin.com/in/jeremy-liu-3b1238339)
-
-###
+[<kbd> <br> Discord <br> </kbd>](https://discordapp.com/users/613742496924565514) [<kbd> <br> Instagram <br> </kbd>](https://www.instagram.com/jeremyliu.621/) [<kbd> <br> Email <br> </kbd>](jeremyliu621@gmail.com)[<kbd> <br> Linkedin <br> </kbd>](https://www.linkedin.com/in/jeremy-liu-3b1238339)
 
 <p align="left">Gmail: jeremyliu621@gmail.com<br>Phone: 647-978-3453<br>Ontario, Canada</p>
 
