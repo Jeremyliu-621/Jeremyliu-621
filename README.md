@@ -29,14 +29,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" />
-<img align="left" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" />
-<img align="left" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo" />
-<img align="left" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender logo" />
-
-<p align="right" style="margin-left: 10px;">• Languages: Python, HTML5<br>• Others: Figma, Blender</p>
+<p align="left" style="margin-left: 10px;">• Languages: Python, HTML5<br>• Others: Figma, Blender</p>
 
 ###
 
@@ -46,7 +39,7 @@
 
 [<kbd> <br> Discord <br> </kbd>](https://discordapp.com/users/613742496924565514) [<kbd> <br> Instagram <br> </kbd>](https://www.instagram.com/jeremyliu.621/) [<kbd> <br> Email <br> </kbd>](jeremyliu621@gmail.com)[<kbd> <br> Linkedin <br> </kbd>](https://www.linkedin.com/in/jeremy-liu-3b1238339)
 
-<p align="left">Gmail: jeremyliu621@gmail.com<br>Phone: 647-978-3453<br>Ontario, Canada</p>
+<p align="left">Phone: 647-978-3453<br>Ontario, Canada</p>
 
 ###
 
