@@ -50,13 +50,13 @@
 <p align="center">
   <a href="https://github.com/Jeremyliu-621/CS50-projects">
     <kbd> <br> 
-                                                                                                                                                                                   CS50 Solutions                                                                                                                                                                                   
+                                                                                                                                                                         CS50 Solutions                                                                                                                                                                         
       <br> 
     </kbd>
   </a>
   <a href="#">
     <kbd> <br>  
-                                                                                                                                                                                   CS11 Solutions                                                                                                                                                                             
+                                                                                                                                                                         CS11 Solutions                                                                                                                                                                   
       <br> 
     </kbd>
   </a>
