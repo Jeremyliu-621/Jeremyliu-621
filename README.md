@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left" style="margin-left: 10px;">• Languages: Python, HTML5<br>• Others: Figma, Blender</p>
+<p align="left" style="margin-left: 10px;">• Languages: Python, HTML5, CSS<br>• Others: Figma, Blender</p>
 
 ###
 
