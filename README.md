@@ -1,4 +1,4 @@
-<h1 style="font-size=1rem" align="left">What's up! I'm Jeremy Liu.</h1>
+<h1 style="font-size=1rem" align="left">What's up! 🤙 I'm Jeremy Liu.</h1>
 
 ###
 <p align="left">I am a passionate **Computer Engineer Undergrad @ the University of Toronto** who is dedicated to inspiring people and fostering positive spaces around the world. I'm working on deepening my knowledge on various software languages and noticing the small snippets of joy in life.</p>
