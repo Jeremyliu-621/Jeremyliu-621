@@ -99,6 +99,6 @@
 
 <p align="left">Phone: 647-978-3453<br>Ontario, Canada</p>
 
-  <img height="85" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZwY25waXZ0bWliY3luenphanFvZGt6NXN6aWlmajZucWpnazNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vDoUoDZHoUQxMPkd7/giphy.gif" />
+<img height="100" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZwY25waXZ0bWliY3luenphanFvZGt6NXN6aWlmajZucWpnazNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vDoUoDZHoUQxMPkd7/giphy.gif" />
 
 
