@@ -5,7 +5,7 @@
 
 <br>
 
-> driven by curiousity.
+> driven by people.
 
 <br>
 
