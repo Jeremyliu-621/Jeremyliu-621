@@ -5,7 +5,7 @@
 
 <br>
 
-> driven by people.
+> driven by people
 
 <br>
 
