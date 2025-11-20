@@ -65,9 +65,9 @@
 
 <h2 align="left">Tech Stack</h2>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,git,vscode,figma,blender" />
-</p>
+</p> -->
 
 <p align="left" style="margin-left: 10px;">
   <ul>
