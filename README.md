@@ -27,7 +27,7 @@
 ### I am Currently:
 
 - building personal tools & student projects
-- learning python, HTML, and CSS
+- learning python, javascript, and C
 - exploring robotics and AI
 
 <p align="left">Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.</p> <br>
