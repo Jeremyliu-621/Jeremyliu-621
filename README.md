@@ -27,7 +27,7 @@
 ### I am Currently:
 
 - building personal tools & student projects
-- learning python, javascript, and C
+- learning Python, Javascript, and C
 - exploring robotics and AI
 
 <p align="left">Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.</p> <br>
@@ -69,7 +69,14 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,git,vscode,figma,blender" />
 </p>
 
-<p align="left" style="margin-left: 10px;">• Languages: Python, HTML5, CSS<br>• Others: Figma, Blender</p>
+<p align="left" style="margin-left: 10px;">
+  <ul>
+    <li>Languages: Python, JavaScript, TypeScript, HTML, CSS, Swift</li>
+    <li>Frameworks: Bootstrap, Email.js, React.js, Matplotlib, Tkinter, Tailwind</li>
+    <li>Tools: Git, Visual Studio Code, Cursor.ai</li>
+    </li>
+  </ul>
+</p>
 
 <br>
 
