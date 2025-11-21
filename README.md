@@ -71,7 +71,7 @@
 
 <p align="left" style="margin-left: 10px;">
   <ul>
-    <li>Languages: Python, JavaScript, TypeScript, HTML, CSS, Swift</li>
+    <li>Languages: Python, JavaScript, MATLAB, TypeScript, HTML, CSS, Swift</li>
     <li>Frameworks: Bootstrap, Email.js, React.js, Matplotlib, Tkinter, Tailwind</li>
     <li>Tools: Git, Visual Studio Code, Cursor.ai</li>
     </li>
