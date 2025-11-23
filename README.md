@@ -5,12 +5,6 @@
 
 <br>
 
-> driven by people
-
-<br>
-
-<br>
-
 <div align=center>
   <img height="85" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjE5dW43dmpnd3JjZWI1bTZqNzJuMnV5bHdvb3ljaGFtOGt1NnFoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6gDYNNm8a2hfzTNe/giphy.gif" />
   <img height="85" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBndHhrNDE3MWdzNnpra2dqYTNmbWhtbDQ0eWJoc3pwZW9ibXk1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vnx2q8TqSgANO/giphy.gif" />
