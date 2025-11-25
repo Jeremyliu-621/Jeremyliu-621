@@ -77,7 +77,8 @@
 - learning Python, Javascript, and C
 - exploring robotics and AI
 
-<p align="left">Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.</p> <br>
+<p align="left">Outside of academics, I create origami, train Brazilian Jiu-Jitsu, write (legal) graffiti, and longboard.</p> 
+<br>
 
 ###
 
