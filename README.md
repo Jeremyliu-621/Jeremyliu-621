@@ -28,10 +28,9 @@
 
 <p align="left" style="margin-left: 10px;">
   <ul>
-    <li>Languages: Python, JavaScript, MATLAB, TypeScript, HTML, CSS, Swift</li>
-    <li>Frameworks: Bootstrap, Email.js, React.js, Matplotlib, Tkinter, Tailwind</li>
-    <li>Tools: Git, Visual Studio Code, Cursor.ai</li>
-    </li>
+    <li>Languages: Python, Javascript, MATLAB, Typescript, HTML, CSS, Swift</li>
+    <li>Libraries & Frameworks: React, TailwindCSS, Bootstrap, Beautiful Soup, Node.js, NumPy, Matplotlib, Tkinter</li>
+    <li>Developer Tools: Git, GitHub, VS Code, Cursor, Linux, Google Cloud Platform</li>
   </ul>
 </p>
 
