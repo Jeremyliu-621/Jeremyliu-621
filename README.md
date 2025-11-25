@@ -18,13 +18,26 @@
 
 <br>
 
-### I am Currently:
+###
 
-- building personal tools & student projects
-- learning Python, Javascript, and C
-- exploring robotics and AI
+<h2 align="left">Tech Stack</h2>
 
-<p align="left">Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.</p> <br>
+<!-- <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,vscode,figma,blender" />
+</p> -->
+
+<p align="left" style="margin-left: 10px;">
+  <ul>
+    <li>Languages: Python, JavaScript, MATLAB, TypeScript, HTML, CSS, Swift</li>
+    <li>Frameworks: Bootstrap, Email.js, React.js, Matplotlib, Tkinter, Tailwind</li>
+    <li>Tools: Git, Visual Studio Code, Cursor.ai</li>
+    </li>
+  </ul>
+</p>
+
+<br>
+
+###
 
 <p align="center">
   <a href="https://github.com/Jeremyliu-621/RREF-calculator">
@@ -57,22 +70,15 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">About Me</h2>
 
-<!-- <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,vscode,figma,blender" />
-</p> -->
+### I am Currently:
 
-<p align="left" style="margin-left: 10px;">
-  <ul>
-    <li>Languages: Python, JavaScript, MATLAB, TypeScript, HTML, CSS, Swift</li>
-    <li>Frameworks: Bootstrap, Email.js, React.js, Matplotlib, Tkinter, Tailwind</li>
-    <li>Tools: Git, Visual Studio Code, Cursor.ai</li>
-    </li>
-  </ul>
-</p>
+- building personal tools & student projects
+- learning Python, Javascript, and C
+- exploring robotics and AI
 
-<br>
+<p align="left">Outside of academics, you can find me doing origami, Mixed Martial Arts, (legal) graffiti, longboarding, and listening to music in my free time.</p> <br>
 
 ###
 
