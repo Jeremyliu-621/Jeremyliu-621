@@ -69,19 +69,6 @@
 
 ###
 
-<h2 align="left">About Me</h2>
-
-### I am Currently:
-
-- building personal tools & student projects
-- learning Python, Javascript, and C
-- exploring robotics and AI
-
-<p align="left">Outside of academics, I create origami, train Brazilian Jiu-Jitsu, write (legal) graffiti, and longboard.</p> 
-<br>
-
-###
-
 <h2 align="left">Socials</h2>
 
 ###
