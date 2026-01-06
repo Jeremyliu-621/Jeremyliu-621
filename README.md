@@ -1,7 +1,7 @@
 <h1 style="font-size=1rem" align="left">What's up! 🤙 I'm Jeremy Liu.</h1>
 
 ###
-<p align="left">I am a passionate <strong>Computer Engineer Undergrad @ the University of Toronto</strong> who is dedicated to inspiring people and fostering positive spaces around the world. I'm working on deepening my knowledge on various software languages and noticing the small snippets of joy in life.</p>
+<p align="left">I am a passionate <strong>Computer Engineer Undergrad @ the University of Toronto</strong> who is dedicated to inspiring people and fostering positive spaces around the world.
 
 <br>
 
@@ -72,8 +72,6 @@
 
 
 <br>
-
-<p align="left">Phone: 647-978-3453<br>Ontario, Canada</p>
 
 <!-- <img height="100" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZwY25waXZ0bWliY3luenphanFvZGt6NXN6aWlmajZucWpnazNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vDoUoDZHoUQxMPkd7/giphy.gif" /> -->
 
