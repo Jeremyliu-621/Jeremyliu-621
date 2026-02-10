@@ -16,6 +16,8 @@
   
 </div>
 
+<br>
+
 <div align=center>
   <a href="https://j-space.vercel.app/">
     <kbd> <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        🟦 Check out my website!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
@@ -43,8 +45,6 @@
     <li><strong>Developer Tools:</strong> Git, Node.js, AWS, PostgreSQL, Postman, Visual Studio Code, Claude, Cursor.ai</li>
   </ul>
 </p>
-
-<br>
 
 ###
 
