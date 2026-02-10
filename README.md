@@ -46,22 +46,6 @@
   </ul>
 </p>
 
-
-Programming Languages
-Python, C, JavaScript, TypeScript, MATLAB, SQL
-
-Data & ML
-Pytorch, Scikit-learn, Matplotlib, Pandas, NumPy, OpenCV, BeautifulSoup, Selenium
-
-Web & UI
-React, Next.js, HTML, CSS, Bootstrap, Tailwind, Vite
-
-Robotics & Systems
-ROS2, Linux (Ubuntu), Arduino, OpenCV
-
-Developer Tools
-Git, Node.js, AWS, PostgreSQL, Postman, VS Code, Claude, Cursor.ai
-
 <br>
 
 ###
