@@ -38,12 +38,29 @@
 
 <p align="left" style="margin-left: 10px;">
   <ul>
-    <li><strong>Languages:</strong> Python, JavaScript, C, MATLAB, TypeScript, HTML, CSS, Swift</li>
-    <li><strong>Frameworks:</strong> React, Next.js, Node.js, Express.js, Bootstrap, Tailwind CSS, Matplotlib, Tkinter, Email.js</li>
-    <li><strong>Libraries:</strong> OpenCV, Pandas, NumPy, Selenium, BeautifulSoup, jQuery</li>
-    <li><strong>Tools:</strong> AWS, Git, PostgreSQL, Arduino, Visual Studio Code, Google Cloud Platform, Cursor.ai</li>
+    <li><strong>Programming Languages:</strong> Python, C, JavaScript, TypeScript, MATLAB, SQL</li>
+    <li><strong>Data & ML:</strong> PyTorch, Scikit-learn, Matplotlib, Pandas, NumPy, OpenCV, BeautifulSoup, Selenium</li>
+    <li><strong>Web & UI:</strong> React, Next.js, HTML, CSS, Bootstrap, Tailwind, Vite</li>
+    <li><strong>Robotics & Systems:</strong> ROS2, Linux (Ubuntu), Arduino, OpenCV</li>
+    <li><strong>Developer Tools:</strong> Git, Node.js, AWS, PostgreSQL, Postman, Visual Studio Code, Claude, Cursor.ai</li>
   </ul>
 </p>
+
+
+Programming Languages
+Python, C, JavaScript, TypeScript, MATLAB, SQL
+
+Data & ML
+Pytorch, Scikit-learn, Matplotlib, Pandas, NumPy, OpenCV, BeautifulSoup, Selenium
+
+Web & UI
+React, Next.js, HTML, CSS, Bootstrap, Tailwind, Vite
+
+Robotics & Systems
+ROS2, Linux (Ubuntu), Arduino, OpenCV
+
+Developer Tools
+Git, Node.js, AWS, PostgreSQL, Postman, VS Code, Claude, Cursor.ai
 
 <br>
 
