@@ -29,20 +29,16 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">Current Projects</h2>
 
-<!-- <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,vscode,figma,blender" />
-</p> -->
+- 😺 **[Opticat](https://useopticat.vercel.app/)** - Uses git history to onboard new engineers.
+- 😺 **[Beavertrail](https://useopticat.vercel.app/)** - Uses git history to onboard new engineers.
+- 🔷 **[Sinatra](https://sinatra-daw.vercel.app/)** - Draft full songs with just your voice.
+- 📑 **[Tabs](https://github.com/steipete/CodexBar)** - Plan and experience any vacation in VR before paying $5000 for it.
+
+###
 
 <p align="left" style="margin-left: 10px;">
-  <ul>
-    <li><strong>Programming Languages:</strong> Python, C, JavaScript, TypeScript, MATLAB, SQL</li>
-    <li><strong>Data & ML:</strong> PyTorch, Scikit-learn, Matplotlib, Pandas, NumPy, OpenCV, BeautifulSoup, Selenium</li>
-    <li><strong>Web & UI:</strong> React, Next.js, HTML, CSS, Bootstrap, Tailwind, Vite</li>
-    <li><strong>Robotics & Systems:</strong> ROS2, Linux (Ubuntu), Arduino, OpenCV</li>
-    <li><strong>Developer Tools:</strong> Git, Node.js, AWS, PostgreSQL, Postman, Visual Studio Code, Claude, Cursor.ai</li>
-  </ul>
 </p>
 
 ###
