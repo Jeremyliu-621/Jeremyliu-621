@@ -31,6 +31,7 @@
 
 <h2 align="left">Current Projects</h2>
 
+- 😺 **[Leetmeow](https://leetmeow.vercel.app/)** - LeetCode-gated website blocker
 - 😺 **[Opticat](https://useopticat.vercel.app/)** - Uses git history to onboard new engineers.
 - 🦫 **[Beavertrail](https://useopticat.vercel.app/)** - +Plan and experience any vacation in VR before paying $5000 for it.
 - 🔷 **[Sinatra](https://sinatra-daw.vercel.app/)** - Draft full songs with just your voice.
