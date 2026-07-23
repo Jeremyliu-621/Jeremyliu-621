@@ -31,9 +31,12 @@
 
 <h2 align="left">Current Projects</h2>
 
+- 🪄 **[Ensemble](https://github.com/Jeremyliu-621/ensemble)** - Turn your audience's phones into an orchestra
+- 🥊 **[Paper Cuts](https://doodletown.io/)** - Super Smash Bros that lets you doodle
+- 🐙 **[Aucctopus](https://github.com/Jeremyliu-621/ensemble)** - Agent swarm predicts product virality
 - 😺 **[Leetmeow](https://leetmeow.vercel.app/)** - LeetCode-gated website blocker
 - 😺 **[Opticat](https://useopticat.vercel.app/)** - Uses git history to onboard new engineers.
-- 🦫 **[Beavertrail](https://useopticat.vercel.app/)** - +Plan and experience any vacation in VR before paying $5000 for it.
+- 🦫 **[Beavertrail](https://useopticat.vercel.app/)** - Plan and experience any vacation in VR before paying $5000 for it.
 - 🔷 **[Sinatra](https://sinatra-daw.vercel.app/)** - Draft full songs with just your voice.
 - 📑 **[Tabs](https://trytabs.vercel.app/)** - Restore your workflow easily
 
